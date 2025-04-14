@@ -1,0 +1,321 @@
+# Términos y Condiciones Generales
+
+## Términos y Condiciones Generales de la Tienda Online (E-Shop)
+
+### 1. Disposiciones Generales
+
+1.1. Estos Términos y Condiciones Generales regulan los derechos y obligaciones de las partes contratantes que se derivan del contrato de venta a distancia entre Diawin s.r.o. con domicilio en Čermeľská cesta 1, 040 01 Košice (República Eslovaca), NIF: 36830712, NIF IVA: 202245963, Número de Registro IVA: SK2022459637, inscrita en el Registro Mercantil del Tribunal de Distrito de Košice, Sección: Sro, Número de inscripción 20376/V (en adelante "Vendedor") y el Comprador, cuyo objeto es la compra y venta de mercancías y la entrega de calzado a medida según los parámetros específicos del pie del Comprador en el sitio web del Vendedor denominado d-wide.com (en adelante "E-Shop").
+
+#### Datos de contacto del Vendedor:
+```
+Diawin s.r.o.
+DUETT 1, Nam.Oslob.3/A
+040 01 Kosice
+Eslovaquia
+info@d-wide.com
+```
+IBAN: SK80 0900 0000 0052 0966 1662
+
+#### Autoridad de Supervisión:
+Inspección Comercial Eslovaca (SOI)
+```
+SOI Kosice
+Vratna 3
+040 01 Kosice
+Eslovaquia
++421 55 729 07 05
+ke@soi.sk
+```
+
+1.2. Los Términos y Condiciones Generales son una parte esencial del contrato de compraventa. Si el Vendedor y el Comprador celebran un contrato de compraventa por escrito en el que acuerdan condiciones que difieren de los Términos y Condiciones Generales, las disposiciones del contrato de compraventa prevalecerán sobre los Términos y Condiciones Generales.
+
+1.3. Definiciones importantes:
+
+- E-Shop: Un sistema informático en Internet con acceso público que permite la compra de mercancías.
+- Comprador: Una persona física o jurídica que ha celebrado un contrato de compraventa con el Vendedor.
+- Consumidor: Una persona que no actúa en el marco de su actividad comercial o profesional al celebrar y cumplir el contrato.
+- Mercancías: Productos incluidos en la oferta actual del E-Shop [d-wide.com](https://d-wide.com). El término "Mercancías" significa "Mercancías nuevas", "Mercancías usadas" y "Mercancías a medida", a menos que el contexto indique lo contrario.
+- Mercancías nuevas: Mercancías que no han sido utilizadas y se encuentran en su embalaje original del fabricante, incluyendo todos los accesorios.
+- Mercancías usadas: Mercancías que ya han sido utilizadas y están marcadas como "usadas". El Comprador reconoce que las mercancías usadas pueden estar desgastadas o presentar defectos causados por su uso. El estado de las mercancías se indica en la descripción del E-Shop, y cualquier defecto o desgaste se refleja en el precio de las mercancías.
+- Mercancías a medida: Fabricación de mercancías según los requisitos específicos del Comprador, como calzado a medida según los parámetros especificados del pie del Comprador en el sitio web del Vendedor en la sección de productos a medida.
+- Precio de compra: El precio total que incluye el precio de las mercancías y los gastos de envío.
+
+### 2. Pedido Electrónico y Celebración del Contrato de Compraventa
+
+2.1. Un pedido electrónico para la entrega de mercancías significa:
+
+2.1.1. Un formulario electrónico que contiene información sobre el Comprador, una lista de las mercancías pedidas de la oferta del E-Shop d-wide.com, incluyendo el tamaño de las mercancías, el precio total de estas mercancías y los gastos de envío, método de pago y método de entrega, que es procesado por el sistema electrónico de negocio.
+
+2.2. En el caso del pedido electrónico de fabricación y entrega de calzado a medida, el Comprador realiza el pedido a través de un configurador que se encuentra en el E-Shop d-wide.com.
+
+2.3. Un pedido electrónico para la entrega de calzado a medida significa:
+
+2.3.1. Un formulario electrónico que contiene información sobre el Comprador, la longitud y anchura del pie del Comprador, medidas según las instrucciones publicadas en el sitio web d-wide.com en el idioma local, el diseño del material del calzado seleccionado, la combinación de colores del calzado seleccionado, el precio total de estas mercancías y los gastos de envío, método de pago y método de entrega, que es procesado por el sistema electrónico de negocio.
+
+2.4. La validez de un pedido electrónico depende de la indicación de toda la información requerida en el formulario de registro del Comprador, incluyendo su número de teléfono.
+
+2.5. El contrato de compraventa se celebra en el momento en que el contrato es aceptado por la confirmación de la aceptación del pedido por el sistema electrónico del Vendedor.
+
+### 3. Condiciones de Precio
+
+3.1. Al pedir mercancías, se aplica el precio publicado como precio de las mercancías. Los precios de venta en el E-Shop se muestran en euros (EUR). Los gastos de envío o los costes de las mercancías a medida no están incluidos en el precio de las mercancías; se añaden al precio de las mercancías según estos Términos y Condiciones Generales. Todos los precios incluyen el IVA, cuando sea aplicable. Los cargos adicionales (por ejemplo, derechos de aduana, impuestos) se indicarán claramente antes de realizar el pedido.
+
+3.2. Las ofertas especiales y otros descuentos se aplican durante el período en que la oferta especial es válida y bajo las condiciones establecidas para cada oferta especial o descuento por separado. No se pueden combinar diferentes ofertas especiales y descuentos, a menos que se indique expresamente lo contrario. El precio total, incluyendo todos los impuestos y cargos adicionales, se mostrará claramente antes de realizar el pedido.
+
+3.3. Si el precio de las mercancías en el E-Shop se publica con un descuento, el precio antes del descuento era el precio al que el Vendedor ofrecía y vendía los productos al menos 30 días antes de la publicación del descuento, o era el precio original al que el Vendedor ofrecía y vendía el producto en un período más corto que 30 días. Esto no se aplica a los descuentos para clientes registrados, descuentos por defectos del producto u otros descuentos en los que la ley no requiere la publicación del precio de referencia antes del descuento. El precio original y el precio con descuento se mostrarán claramente.
+
+3.4. En la entrega de mercancías o servicios al extranjero, el Vendedor no es responsable de los derechos de aduana, impuestos y tasas que se deriven del transporte de mercancías desde la República Eslovaca. Estos costes corren exclusivamente a cargo del Comprador. El Vendedor proporcionará una estimación de estos costes antes del pedido, pero el importe final puede variar según las regulaciones del país de destino.
+
+### 4. Métodos de Pago
+
+4.1. Transferencia bancaria sin efectivo a la cuenta del Vendedor - Después de recibir una solicitud de pago y los detalles necesarios por correo electrónico, enviado por el Vendedor, el Comprador transfiere el importe total de las mercancías pedidas (Precio de compra) a la cuenta en Slovenská Sporitelňa, SWIFT: GIBASKBX, IBAN: SK80 0900 0000 0052 0966 1662 para pagos en EUR e indica el número de factura o factura proforma para la entrega de calzado a medida como referencia de pago. La referencia de pago también debe incluir el nombre y apellidos del Comprador. El pedido se procesa una vez que el importe total del Precio de compra se ha abonado en la cuenta del Vendedor dentro del plazo de entrega establecido en el artículo 5 de estos Términos y Condiciones Generales. En caso de rescisión del contrato, el pago se reembolsa íntegramente a la cuenta del Comprador.
+
+4.2. Pago a través de la plataforma de pago STRIPE (Pago instantáneo, pago con tarjeta de crédito, transferencia bancaria). Aprobado y regulado por el Banco Central de Irlanda.
+
+4.3. Pago a través de la plataforma de pago PayPal (Pago instantáneo, pago con tarjeta de crédito, transferencia bancaria). PayPal está autorizado como institución de crédito luxemburguesa y está supervisado por la autoridad de supervisión luxemburguesa, Commission de Surveillance du Secteur Financier (CSSF).
+
+### 5. Condiciones de Entrega
+
+5.1. La entrega de las mercancías pedidas se realiza lo antes posible según la disponibilidad de las mercancías y las posibilidades operativas del Vendedor. El Vendedor envía todas las mercancías marcadas como disponibles en stock dentro de 72 horas después de la confirmación del pedido o, si se paga por adelantado mediante transferencia bancaria, dentro de 72 horas después del abono del importe total del Precio de compra en la cuenta del Vendedor. En el caso de la entrega de mercancías fabricadas por encargo y mercancías que no están en stock en el momento de la confirmación del pedido, las mercancías se envían dentro de 12 semanas después de la confirmación del pedido y la recepción del importe total del Precio de compra en la cuenta del Vendedor. El Vendedor se compromete a entregar las mercancías pedidas al Comprador a más tardar 30 días después de la fecha del pedido. En casos justificados, el Vendedor tiene derecho a prorrogar repetidamente el plazo de entrega. El Vendedor informará al Comprador sobre cualquier retraso en la entrega y proporcionará una nueva fecha de entrega.
+
+5.2. Si el pedido contiene varios artículos y algunos de ellos no están en stock, el Vendedor informará al Comprador y ofrecerá la posibilidad de entregas parciales e informará sobre los gastos de envío. El Comprador tiene derecho a cancelar el pedido si una entrega parcial no es aceptable.
+
+5.3. Las mercancías son entregadas por terceros (proveedores) a la dirección del Comprador especificada en el formulario de pedido, y el Comprador está obligado a aceptar la entrega en esta dirección. El riesgo de pérdida o daño de las mercancías se transfiere al Comprador cuando las mercancías son entregadas al proveedor. El Vendedor proporcionará información de seguimiento para la entrega.
+
+5.4. La factura se envía electrónicamente a la dirección de correo electrónico del Comprador especificada en el formulario de pedido. La factura también sirve como certificado de garantía. El Comprador recibirá una confirmación del pedido y del contrato inmediatamente después de completar el pedido.
+
+5.5. Las mercancías se entregan a Alemania, Austria, Italia, Francia, Países Bajos, España, Reino Unido u otros países por acuerdo mutuo.
+
+5.6. La propiedad de las mercancías pasa al Comprador cuando se reciben las mercancías.
+
+5.7. Al recibir las mercancías, se recomienda al Comprador verificar:
+
+- si las mercancías se han entregado según el pedido,
+- si las mercancías se han entregado en la cantidad especificada en el pedido,
+- si las mercancías no están dañadas.
+
+Si el Comprador recibe mercancías que no ha pedido, se recomienda que el Comprador contacte al Vendedor dentro de las 24 horas posteriores a la recepción de la entrega por correo electrónico o teléfono. Si las mercancías entregadas muestran signos de daño o defectos visibles, se recomienda que el Comprador contacte al Vendedor dentro de las 24 horas posteriores a la recepción de la entrega por correo electrónico o teléfono. Si las mercancías están dañadas, el Comprador está obligado a registrar el alcance y la naturaleza del daño en un protocolo cuya exactitud es confirmada por el mensajero. Sobre la base de este protocolo escrito, que se entrega al Vendedor, el Vendedor puede ofrecer al Comprador reparar el defecto, conceder un descuento en las mercancías o, si el defecto no se puede reparar, entregar nuevas mercancías al Comprador.
+
+5.8. Amazon Fulfillment - En los casos en que todos los artículos de un pedido estén disponibles en los centros de cumplimiento de Amazon, el Vendedor puede optar por cumplir el pedido a través de los servicios de cumplimiento de Amazon. En tales casos, se aplican las siguientes condiciones:
+
+5.8.1. El Vendedor se reserva el derecho de utilizar los servicios de cumplimiento de Amazon para pedidos en los que todos los artículos estén disponibles en los centros de cumplimiento de Amazon. Esta decisión se toma a discreción exclusiva del Vendedor y sin previo aviso al Comprador.
+
+5.8.2. Cuando un pedido es cumplido por Amazon:
+   - El envío será manejado por los métodos y transportistas de Amazon
+   - La información de seguimiento se proporcionará a través del sistema de Amazon
+   - El plazo de entrega estará sujeto a las políticas y procedimientos de envío de Amazon
+
+5.8.3. El Comprador reconoce y acepta que:
+   - Los términos y condiciones de Amazon con respecto al envío se aplicarán a los pedidos cumplidos por Amazon
+   - El Vendedor no es responsable de ningún problema derivado del proceso de cumplimiento de Amazon
+   - Cualquier disputa con respecto al proceso de entrega debe ser abordada directamente con Amazon
+
+5.8.4. El Vendedor no será responsable de:
+   - Cualquier retraso o problema en la entrega causado por el proceso de cumplimiento de Amazon
+   - Cualquier discrepancia entre la política de entrega del Vendedor y los procedimientos de envío de Amazon
+   - Cualquier costo o tarifa adicional impuesta por los servicios de cumplimiento de Amazon
+
+### 6. Derecho de Desistimiento del Contrato de Compraventa
+
+6.1. El Vendedor tiene derecho a desistir del contrato de compraventa en los siguientes casos:
+
+- Si el cumplimiento del contrato no es posible por razones imputables al Comprador y el Comprador no proporciona la cooperación necesaria al Vendedor tras una solicitud por escrito (datos de contacto incorrectos, falta de comunicación entre el Comprador y el Vendedor, etc.),
+- si el Comprador no acepta el pedido dentro de los cinco días hábiles a partir de la fecha en que el pedido debería haber sido aceptado,
+- en caso de daño de las mercancías durante el envío del pedido y el Vendedor no puede cumplir el pedido debido a la no disponibilidad actual de dichas mercancías en stock,
+- si las mercancías no están en stock en el momento del pedido, ya no se producen o entregan o el precio ha cambiado significativamente en el proveedor de las mercancías y el Vendedor no puede entregar las mercancías al Comprador o entregarlas al precio indicado en el E-Shop por estas razones,
+- si el Comprador previamente no ha aceptado las mercancías o ha violado estos Términos y Condiciones Generales de otra manera o es deudor del Vendedor,
+- en caso de un producto cuyo precio se ha indicado incorrectamente en el E-Shop debido a un error del sistema del Vendedor.
+
+6.2. Si el Comprador ya ha pagado el Precio de compra o una parte del mismo en el momento de la terminación del contrato de compraventa debido al desistimiento del Vendedor, el Vendedor reembolsa el Precio de compra ya pagado o una parte del mismo dentro de los 30 días posteriores a la expiración del contrato de compraventa mediante transferencia a la cuenta del Comprador, a menos que las partes contratantes acuerden algo diferente sobre el reembolso del Precio de compra.
+
+6.3. Derecho de desistimiento de 30 días (Derecho a desistir del pedido dentro de 30 días sin dar razones y devolverlo): Según las disposiciones de la Ley de Protección del Consumidor, un Comprador que es consumidor (con residencia en la Unión Europea) tiene derecho a desistir del contrato de compraventa dentro de los 30 días naturales a partir del día de recepción de las mercancías sin dar razones. Si el Comprador ejerce el derecho de desistimiento sin dar razones, el Comprador asume los costes de devolución de las mercancías (gastos de envío), incluso si las mercancías no pueden ser devueltas por correo debido a su naturaleza. Esta sección no se aplica al contrato de compraventa celebrado con un Comprador que no tiene residencia permanente en la Unión Europea. Si el consumidor desiste del contrato después de la expiración del plazo especificado, tal desistimiento del contrato es inválido, y el Vendedor no está obligado a aceptar las mercancías devueltas o asumir los costes de entrega de las mercancías. Al aceptar las mercancías devueltas ilegalmente, se celebra un contrato de almacenamiento de mercancías entre el consumidor y el Vendedor, que autoriza al Vendedor a cobrar una tarifa de almacenamiento de 2 EUR sin IVA por cada día de almacenamiento de las mercancías devueltas ilegalmente, y el Vendedor tiene derecho a rescindir este contrato en cualquier momento y devolver las mercancías al Comprador. Si la tarifa de almacenamiento excede el valor de las mercancías almacenadas, el Vendedor tiene derecho a desistir del contrato de compraventa y compensar su reclamación de pago de la tarifa de almacenamiento con la reclamación del Comprador de reembolso del Precio de compra por estas mercancías. Esto también se aplica en caso de no recogida de las mercancías reclamadas después del procesamiento adecuado de la reclamación por parte del Vendedor.
+
+6.4. El Comprador puede desistir del contrato de compraventa según el artículo 6.3 de estos Términos y Condiciones Generales antes del inicio del período de desistimiento. El período de desistimiento sigue siendo válido si la declaración de desistimiento se envía al Vendedor a más tardar en el último día del período de desistimiento.
+
+6.5. Según la Ley de Protección del Consumidor, un Comprador que es consumidor no tiene derecho a desistir del contrato de compraventa cuyo objeto es la venta de mercancías fabricadas según los requisitos específicos del consumidor, mercancías a medida "MADE TO ORDER" o mercancías destinadas específicamente a un consumidor.
+
+6.6. El Comprador tiene derecho a desistir del contrato de compraventa dentro de los 30 días sin dar razones. El período de desistimiento finaliza 30 días después del día en que usted o un tercero designado por usted, que no sea el transportista, haya tomado posesión de las mercancías. Lo mismo se aplica en caso de entrega separada de mercancías pedidas en un pedido, si usted o un tercero designado por usted, que no sea el transportista, ha tomado posesión de la última entrega de las mercancías pedidas de este pedido. Al ejercer el derecho de desistimiento, por favor infórmenos con una declaración clara (por ejemplo, por correo o correo electrónico) a la siguiente dirección: Diawin s.r.o., Námestie Osloboditeľov 3/A, 040 01 Košice, República Eslovaca, Correo electrónico: info@d-wide.com. Para este propósito, puede utilizar el formulario de desistimiento proporcionado o enviado por nosotros, aunque su uso no es obligatorio. El período de desistimiento se cumple si envía la notificación sobre el ejercicio del derecho de desistimiento antes de la expiración del período de desistimiento.
+
+6.7. El Comprador está obligado a devolver las mercancías al Vendedor dentro de los 30 días a partir de la fecha del desistimiento o entregar las mercancías personalmente al Vendedor en una de las direcciones mencionadas en el derecho de devolución previo acuerdo. Los costes de devolución de las mercancías (gastos de envío) corren a cargo del Comprador. El plazo mencionado en la primera oración se considera cumplido si las mercancías se entregan para su transporte o se entregan al Vendedor a más tardar en el último día del plazo. Dado que el Vendedor no es responsable de la pérdida de mercancías durante el transporte, recomendamos enviar las mercancías aseguradas, por correo certificado o a través de un servicio de mensajería seleccionado. El Vendedor no acepta mercancías contra reembolso.
+
+6.8. El Vendedor está obligado a reembolsar al Comprador todos los pagos recibidos en relación con el contrato de compraventa, incluyendo los costes de entrega, dentro de los 30 días a partir de la fecha de devolución de las mercancías. El reembolso se realiza de la misma manera que el Comprador realizó el pago al Vendedor, a menos que las partes contratantes acuerden algo diferente sobre el reembolso del Precio de compra, sin cobrar tarifas adicionales. Si el Comprador desiste del contrato solo parcialmente, es decir, solo con respecto a algunos productos, mientras mantiene otros productos de este pedido, el Vendedor no está obligado a reembolsar una parte de los costes de entrega al Comprador, ya que estos no pueden determinarse proporcionalmente. En este caso, solo se reembolsa el Precio de compra del producto del que el Comprador ha desistido parcialmente.
+
+6.9. El derecho del Comprador a desistir del contrato expira si el Comprador no ejerce el derecho de desistimiento dentro del período de desistimiento y de la manera establecida en los párrafos anteriores de estos Términos y Condiciones Generales.
+
+6.10. Recomendamos al Comprador enviar las mercancías devueltas como paquete asegurado a través de un servicio de mensajería. El Comprador está obligado a entregar las mercancías devueltas, incluyendo todas las partes, en un estado higiénicamente seguro al Vendedor, que permite un manejo seguro de las mercancías por otras personas. De lo contrario, el Vendedor tiene derecho a rechazar la aceptación de las mercancías. Los gastos de envío para la devolución de las mercancías corren a cargo del Comprador.
+
+6.11. El Comprador reconoce que, si se proporcionan regalos junto con las mercancías, el contrato de donación entre el Vendedor y el Comprador se celebra bajo la condición resolutoria de que, si el Comprador ejerce el derecho de desistimiento, el contrato de donación se invalida y el Comprador está obligado a devolver los regalos proporcionados junto con las mercancías que fueron objeto del contrato. Si estos regalos no se devuelven, su valor se considera enriquecimiento injustificado del Comprador. Si no es posible devolver los objetos del enriquecimiento injustificado, el Vendedor tiene derecho a una compensación financiera por el valor regular de los regalos.
+
+6.12. La provisión de cupones de descuento al Comprador constituye un acto jurídico unilateral del Vendedor. Si el Comprador desiste del contrato con respecto a las mercancías para las que se ha utilizado un cupón de descuento total o parcialmente, el Comprador no tiene derecho a compensación por el cupón en efectivo o de otra manera. El Comprador siempre tiene solo el derecho al reembolso del Precio de compra pagado y los costes de entrega.
+
+6.13. Las condiciones de desistimiento establecidas en este artículo de los Términos y Condiciones Generales no se aplican a los Compradores que no son consumidores o que no residen en la Unión Europea.
+
+6.14. El Comprador no tiene derecho a cambiar las mercancías, a menos que las partes contratantes acuerden algo diferente.
+
+6.15. Amazon Fulfillment - Para los pedidos cumplidos por Amazon, se aplican las siguientes condiciones específicas para devoluciones y desistimiento:
+
+6.15.1. Proceso de Devoluciones y Desistimiento:
+   - Las devoluciones para pedidos cumplidos por Amazon se procesarán a través del sistema de devoluciones de Amazon
+   - La inspección y clasificación de los artículos devueltos será realizada por el personal de Amazon
+   - Amazon determinará si los artículos devueltos se clasifican como "vendibles" o "para desechar" según sus políticas y procedimientos internos
+   - El Vendedor no tiene control ni influencia sobre el proceso de inspección y clasificación de artículos devueltos de Amazon
+   - El Vendedor no es responsable de ninguna decisión tomada por Amazon con respecto a la clasificación de los artículos devueltos
+
+6.15.2. El Comprador reconoce y acepta que:
+   - Los términos y condiciones de Amazon con respecto a devoluciones y desistimiento se aplicarán a los pedidos cumplidos por Amazon
+   - El Vendedor no puede influir ni modificar las decisiones de Amazon con respecto a la clasificación de los artículos devueltos
+   - Cualquier disputa con respecto al proceso de devolución o desistimiento debe ser abordada directamente con Amazon
+
+6.15.3. El Vendedor no será responsable de:
+   - Cualquier decisión tomada por Amazon con respecto a la clasificación de los artículos devueltos
+   - Cualquier discrepancia entre la política de devolución del Vendedor y los procedimientos de devolución de Amazon
+   - Cualquier costo o tarifa adicional impuesta por los servicios de devolución de Amazon
+
+### 7. Condiciones de Garantía y Procedimiento de Reclamación
+
+7.1. El Vendedor es responsable de los defectos en las mercancías en el momento de su entrega al Comprador. El Vendedor no es responsable de los defectos que resulten del desgaste de las mercancías en relación con su uso. El Vendedor no es responsable de un defecto por el que se acordó un precio más bajo. El período de garantía legal es de dos años a partir de la entrega de las mercancías.
+
+7.2. Si el Comprador es un consumidor, el período de garantía es de 24 meses. Si el Comprador es una persona distinta a un consumidor, en particular una persona jurídica, el período de garantía es de 12 meses. El período de garantía comienza el día en que el Comprador o un representante autorizado toma posesión de las mercancías. Durante los primeros seis meses después de la entrega, se presume que cualquier falta de conformidad existía en el momento de la entrega a menos que se demuestre lo contrario.
+
+7.3. El procedimiento de reclamación está sujeto a las condiciones de garantía aplicables. Al confirmar el pedido al Vendedor, el Comprador confirma que ha sido completamente informado sobre las condiciones y el procedimiento de reclamación, incluyendo la información sobre dónde se puede presentar la reclamación según la Ley de Protección del Consumidor. El Comprador tiene derecho a elegir entre reparación y reemplazo, a menos que el remedio elegido sea imposible o imponga costes al Vendedor que serían desproporcionados en comparación con el otro remedio.
+
+7.4. Las condiciones de garantía se aplican a las mercancías que el Comprador ha comprado al Vendedor a través del E-Shop d-wide.com.
+
+7.5. El Comprador tiene derecho a hacer valer la garantía solo para mercancías con defectos que fueron compradas al Vendedor.
+
+7.6. El Comprador está obligado a informar al Vendedor inmediatamente, a más tardar dos meses después de descubrir el defecto, sobre los defectos en las mercancías. El día de presentación de la reclamación se considera el día en que el Vendedor recibe la reclamación por escrito, y el Comprador está obligado a entregar las mercancías reclamadas al Vendedor. Si la recepción física de la reclamación por parte del Vendedor ocurre en una fecha posterior al día de presentación de la reclamación, los plazos para el procesamiento de la reclamación comienzan el día en que el Vendedor la recibe. El Comprador está obligado a entregar las mercancías reclamadas, incluyendo todas las partes, en un estado higiénicamente seguro al Vendedor, que permite un manejo seguro de las mercancías por otras personas. De lo contrario, el Vendedor tiene derecho a rechazar la reclamación. Los gastos de envío para la devolución de las mercancías corren a cargo del Comprador.
+
+7.7. Se recomienda al Comprador verificar las mercancías al recibirlas.
+
+7.8. Si las mercancías tienen defectos, el Comprador tiene derecho a presentar una reclamación describiendo la naturaleza del defecto y proponiendo una solución para la reclamación en la reclamación por escrito. Si las mercancías no tienen las propiedades acordadas y el defecto puede ser reparado, el Comprador tiene derecho a la reparación gratuita, oportuna y adecuada de las mercancías. El Vendedor está obligado a reparar el defecto dentro de un período razonable. En lugar de la reparación del defecto, el Comprador también puede solicitar el reemplazo de las mercancías, o si el defecto afecta solo a una parte de las mercancías, el reemplazo de esta parte, siempre que esto no cause costes desproporcionados, teniendo en cuenta el precio de las mercancías o la gravedad del defecto. El Vendedor puede rechazar la reparación del defecto si ni la reparación ni el reemplazo son posibles o si la reparación causaría costes desproporcionados, teniendo en cuenta todas las circunstancias. En su lugar, el Vendedor puede reemplazar las mercancías defectuosas por mercancías sin defectos, si esto no causa inconvenientes graves al Comprador.
+
+7.9. El Vendedor emite una confirmación de recepción de la reclamación en una forma elegida por el Vendedor, por ejemplo, por correo electrónico o por escrito.
+
+7.10. El Comprador no tiene derecho a garantía por defectos que fueron comunicados al Comprador por el Vendedor en el momento de la celebración del contrato o que el Comprador tenía que conocer según las circunstancias en las que se celebró el Contrato de Compra (por ejemplo, a un precio más bajo).
+
+7.11. El derecho del Comprador a reclamar contra el Vendedor expira bajo las siguientes condiciones:
+
+- en caso de daño de las mercancías causado por el desgaste normal,
+- en caso de manejo inadecuado o mal uso de las mercancías,
+- en caso de uso de las mercancías en condiciones en las que normalmente no se utilizan - como temperaturas extremas, polvo, humedad, influencias químicas o mecánicas del ambiente,
+- en caso de interferencia con las mercancías por una persona no autorizada (reparaciones o modificaciones inadecuadas),
+- cuando se usa en contra de las instrucciones, normas técnicas u otra documentación para las mercancías o el propósito para el que están destinados los productos,
+- en caso de daño mecánico, especialmente en caso de mercancías rotas, cortadas, dañadas térmicamente o dañadas por manejo físico inadecuado, rayones intencionales en las capas de las mercancías, etc.,
+- después de la expiración del período de garantía.
+
+Diawin s.r.o. utiliza materiales para la parte superior del calzado que son regularmente probados para biocompatibilidad. Tienen certificados de idoneidad de los materiales utilizados. En contacto con el agua, el color de las partes superiores del calzado puede transferirse al pie, calcetines u otra ropa.
+
+7.12. El Vendedor está obligado a procesar la reclamación y completar el procedimiento de reclamaciones entregando las mercancías reparadas, cambiando las mercancías, reembolsando el precio de compra de las mercancías, enviando un aviso por escrito con una solicitud para recoger las mercancías, otorgando un descuento de precio apropiado en las mercancías o rechazando justificadamente la reclamación.
+
+7.13. El procesamiento de la reclamación se refiere solo a los defectos enumerados en la descripción del defecto que se informaron al presentar la reclamación.
+
+7.14. En caso de un defecto remediable, la reclamación se procesa según el punto 7.8.
+
+7.15. En caso de un defecto que no se pueda remediar y que impida el uso adecuado de las mercancías, el Comprador, si el Vendedor no ha reparado o reemplazado las mercancías, tiene derecho al reemplazo de las mercancías o a desistir del contrato (no se aplica a los Compradores que no son residentes en la UE), o tiene derecho a recibir un descuento de precio apropiado en las mercancías.
+
+7.16. Si las mercancías vendidas a un precio más bajo o las mercancías usadas tienen un defecto del cual el Vendedor es responsable, el Comprador tiene derecho a un descuento de precio apropiado en lugar del derecho al reemplazo de las mercancías.
+
+7.17. El Vendedor se reserva el derecho de reemplazar las mercancías defectuosas por otras mercancías similares con parámetros comparables. En caso de un intercambio, el período de garantía comienza a correr desde el día de recepción de las nuevas mercancías.
+
+7.18. El Vendedor está obligado a procesar la reclamación y emitir una confirmación por escrito del procesamiento de la reclamación (incluso por correo electrónico) al Comprador que es un Consumidor dentro de los 30 días desde la fecha de la reclamación.
+
+7.19. Según la Ley de Protección al Consumidor, el período de 30 días para procesar reclamaciones no se aplica a un Comprador que no es un Consumidor. En este caso, el período para procesar la reclamación no está legalmente determinado. Sin embargo, el Vendedor se compromete a procesar la reclamación dentro de los 60 días.
+
+7.20. El período de garantía se extiende por el tiempo durante el cual el Comprador no pudo usar las mercancías debido a la reparación de garantía de las mercancías.
+
+### 8. Privacidad, Registro en la Tienda Online y Derechos de Autor
+
+8.1. El Vendedor procesa datos personales de acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo relativo a la protección de las personas físicas en lo que respecta al procesamiento de datos personales y a la libre circulación de estos datos (GDPR).
+
+8.2. El Vendedor procesa los siguientes datos personales del Comprador:
+   - Nombre, dirección, correo electrónico, número de teléfono
+   - Información de pago
+   - Historial de pedidos y preferencias
+   - Registros de comunicación
+   - Cualquier otro dato necesario para el cumplimiento del contrato
+
+8.3. Los datos personales del Comprador se procesan:
+   - De manera lícita, leal y transparente
+   - Para fines determinados, explícitos y legítimos
+   - De manera exacta y actualizada
+   - Solo durante el tiempo necesario
+   - De manera segura
+
+8.4. El Comprador tiene los siguientes derechos según el GDPR:
+   - Derecho a acceder a sus datos personales
+   - Derecho a rectificar datos incorrectos
+   - Derecho al olvido
+   - Derecho a limitar el procesamiento
+   - Derecho a la portabilidad de datos
+   - Derecho a oponerse al procesamiento
+   - Derecho a no ser objeto de decisiones automatizadas
+
+8.5. Períodos de retención de datos:
+   - Datos de pedidos: 10 años (para fines fiscales y contables)
+   - Datos de marketing: Hasta la revocación del consentimiento
+   - Datos de servicio al cliente: 3 años después del último contacto
+   - Datos de cuenta: Hasta la eliminación de la cuenta
+
+8.6. El Vendedor implementa medidas técnicas y organizativas apropiadas para proteger los datos personales, incluyendo:
+   - Cifrado de datos en tránsito y en reposo
+   - Evaluaciones de seguridad periódicas
+   - Controles de acceso y autenticación
+   - Procedimientos de copia de seguridad y recuperación
+
+8.7. Un visitante de la Tienda Online puede registrarse en la Tienda Online y convertirse en un usuario registrado.
+
+8.8. El registro en la Tienda Online es posible completando los datos de registro y mediante el consentimiento voluntario al registro, que otorga al usuario registrado la posibilidad de gestionar sus pedidos en línea, realizar compras futuras sin volver a ingresar los datos de contacto, rastrear el historial de compras y utilizar el programa de fidelización del Vendedor, es decir, servicios que son proporcionados gratuitamente por el Vendedor. El usuario registrado asume solo los costes por el uso de los medios de comunicación que utiliza para usar la Tienda Online y durante el registro.
+
+8.9. Cualquier complicación con el registro en la Tienda Online o errores relacionados con la cuenta de usuario deben ser reportados al Vendedor. El Vendedor no garantiza que el sistema, es decir, la cuenta de usuario, esté continuamente disponible, especialmente debido a actualizaciones necesarias y reparaciones requeridas de software y hardware.
+
+8.10. La cuenta del usuario registrado está protegida por un nombre de usuario o dirección de correo electrónico y una contraseña. El usuario registrado es responsable de asegurar estos datos de inicio de sesión contra pérdida y uso indebido.
+
+8.11. El usuario registrado puede eliminar su cuenta de usuario en la Tienda Online en cualquier momento y sin restricciones.
+
+8.12. Las relaciones que no están reguladas por estos Términos y Condiciones Generales están sujetas a las regulaciones legales aplicables de la República Eslovaca, en particular las disposiciones relevantes del Código Civil, el Código Comercial y la Ley de Protección al Consumidor.
+
+8.13. Si el usuario registrado publica un comentario o valoración de los productos del Vendedor en la Tienda Online o carga una foto u otra obra protegida por derechos de autor, el usuario registrado ha otorgado al Vendedor una licencia gratuita, exclusiva, temporal y espacialmente ilimitada para publicar dicha obra, que permite su posterior procesamiento y uso comercial por parte del Vendedor. El usuario registrado se compromete a no publicar ninguna actividad en la Tienda Online que viole las regulaciones legales generalmente vinculantes, en particular aquellas que sin consentimiento violarían los derechos de personalidad o derechos de autor de terceros, que ofenderían al público por su contenido o llamarían a la violencia, cuyo contenido sería vulgar o de otra manera claramente inapropiado.
+
+### 9. Disposiciones Finales
+
+9.1. El Vendedor se reserva el derecho de modificar estos Términos y Condiciones Generales. La obligación de notificar un cambio en estos Términos y Condiciones Generales se cumple mediante su colocación en el sitio web d-wide.com.
+
+9.2. El Comprador declara que ha leído y está de acuerdo con estos Términos y Condiciones Generales antes de completar el pedido.
+
+9.3. Todas las disputas que surjan del contrato o en conexión con él se resuelven principalmente mediante acuerdo entre las partes contratantes. Si no es posible un acuerdo, las disputas son decididas por el tribunal de la República Eslovaca.
+
+9.4. El Consumidor tiene derecho a contactar al Vendedor con una solicitud de reparación si no está satisfecho con la manera en que el Vendedor ha manejado su reclamación o si cree que el Vendedor ha violado sus derechos. Si el Vendedor responde negativamente a esta solicitud o no responde dentro de los 30 días después de su envío, el Consumidor tiene derecho a presentar una solicitud de resolución alternativa de disputas (RAD). Las disputas que surjan del contrato entre el Vendedor y el Consumidor y en conexión con este contrato, con excepción de las disputas según § 1 párrafo 4 de la Ley No. 391/2015 Coll., así como las disputas cuyo valor no exceda los 20 EUR, se presentan a un organismo de RAD, que es la Inspección de Comercio Eslovaca según § 3 de la mencionada Ley, utilizando una plataforma especial o un formulario diseñado para este propósito. Este formulario es el Anexo No. 1 de la citada Ley. Otros organismos de RAD se enumeran en el sitio web https://www.mhsr.sk/obchod/ochrana-spotrebiteľa/alternatívne-riesenie-spotrebiteľských-sporov-1/zoznam-subjektov-alternatívne-riesenie-spotrebiteľských-sporov-1. El organismo de RAD puede requerir que el Consumidor pague una tarifa por iniciar el procedimiento de RAD, que no puede exceder los 5 EUR incluyendo IVA. Si hay varios organismos de RAD, el Consumidor tiene derecho a elegir a cuál de estos organismos dirigirá la solicitud. Además de la RAD, el Consumidor tiene derecho a presentar una solicitud ante el tribunal general local competente. La plataforma de RAD está disponible en https://ec.europa.eu/consumers/odr/main.
+
+9.5. El Vendedor no está vinculado a ningún código de conducta en relación con el Consumidor.
+
+9.6. Las relaciones que no están reguladas por estos Términos y Condiciones Generales están sujetas a las regulaciones legales aplicables de la República Eslovaca, en particular las disposiciones relevantes del Código Civil, el Código Comercial, la Ley No. 250/2007 Coll. sobre Protección al Consumidor y la modificación de la Ley del Consejo Nacional Eslovaco No. 372/1990 Coll. sobre Infracciones, en la versión actualmente válida, la Ley No. 102/2014 Coll. sobre Protección al Consumidor en la Venta de Mercancías o la Prestación de Servicios a Distancia o Fuera de los Establecimientos Comerciales del Vendedor, en la versión actualmente válida.
+
+9.7. A menos que se estipule lo contrario en el contrato escrito entre el Vendedor y el Comprador o a menos que lo requiera la ley, estas condiciones se aplican a todas las relaciones entre el Vendedor y el Comprador. Las partes contratantes celebran el contrato de acuerdo con el Artículo 6 párrafo 2 del Reglamento No. 593/2008/CE y acuerdan que los asuntos no regulados por estas condiciones están sujetos a las leyes y otras regulaciones legales generalmente vinculantes de la República Eslovaca (en adelante, "Ley Aplicable"). Si el Comprador es un Consumidor y algunos de sus derechos y obligaciones bajo estas condiciones y la ley aplicable están regulados de manera diferente por la ley del país en el que residen, se aplica la regulación más favorable para el Comprador.
+
+9.8. Con el fin de monitorear y evaluar la satisfacción del Comprador con la Tienda Online y las mercancías ofrecidas, el Vendedor permite al Comprador dar su valoración en la Tienda Online, que se publica de forma anónima para otros visitantes en línea de la Tienda Online en relación con las mercancías relevantes.
+
+9.9. El Vendedor asegura la autenticidad de estas valoraciones haciendo que la opción de valoración esté disponible solo para los Compradores que han realizado una compra en la Tienda Online, ya sea a través del sistema propio del Vendedor o a través de un sistema externo para procesar valoraciones. Dar una valoración es completamente voluntario.
+
+9.10. Si el sistema para recopilar y procesar valoraciones es operado por un tercero como proveedor de servicios, la persona en el correo electrónico que contiene la opción de dar una valoración está debidamente identificada, con las condiciones para proporcionar el servicio relevante siendo descritas con más detalle en el sitio web de la persona mencionada anteriormente.
+
+9.11. En cualquier caso en que el Comprador proporcione su valoración al Vendedor, se otorga una licencia no exclusiva y gratuita para usar la valoración sin limitación temporal o territorial, y el Vendedor tiene derecho a usar la valoración de cualquier manera.
+
+9.12. El Comprador autoriza al Vendedor a usar la valoración sin nombrar al Comprador como autor, de modo que puedan ejercer sus derechos de personalidad en su propio nombre, ya sea solos o con la ayuda de terceros.
+
+9.13. Al proporcionar la valoración, el Comprador confirma que tiene derecho a usar los derechos de autor requeridos para su valoración en la medida necesaria para otorgar la valoración mencionada anteriormente, y que da esta valoración como una evaluación veraz en conexión con la compra en la Tienda Online. Al otorgar la licencia, el Comprador también confirma que la valoración no viola los derechos de autor de terceros.
+
+9.14. Las valoraciones del Comprador no deben contener información que sea ilegal o inmoral.
+
+9.15. El uso de herramientas de valoración automatizadas y valoraciones que no provienen del Comprador está estrictamente prohibido.
+
+9.16. El Vendedor puede publicar tanto valoraciones positivas como negativas en la Tienda Online, que no pueden ser eliminadas sin una buena razón. Sin embargo, el Vendedor se reserva el derecho de eliminar valoraciones que violen estas condiciones en su totalidad o en parte.
+
+9.17. Las valoraciones no están patrocinadas.
+
+9.18. El Vendedor puede ofrecer al Comprador una recompensa específica por dar una valoración, en particular en forma de descuento en la próxima compra, con las condiciones para recibir y aplicar dicha recompensa siempre siendo establecidas individualmente - dependiendo de la campaña de marketing actual del Vendedor.
+
+9.19. El Vendedor publica las valoraciones individuales en orden cronológico, desde las más nuevas hasta las más antiguas. Las valoraciones dadas en otro idioma también pueden contener traducciones proporcionadas por el Vendedor.
+
+9.20. Estos Términos y Condiciones Generales entran en vigor para el Comprador al celebrar el Contrato de Compra.
+
+En Kosice, a 15 de octubre de 2024.
